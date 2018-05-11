@@ -1,0 +1,28 @@
+
+
+#div2{border:1px #999 solid;
+      background-color:#999;
+      height:90px;
+      position:relative;
+	  margin:0;
+}
+#div1{border:1px #ccc solid;
+      background-color:white;
+      padding:50px;
+	  height:70px;
+     
+}
+#div3{
+	position:relative;
+	top:-51px;
+	left:-50px;
+	float:left;
+	height:120px;
+	width:120px;
+	background-color:#ccc;
+	text-align:center;
+	padding:50px 0 0 0
+
+}
+#c{color:white;}
+span{white-space:pre-wrap;}

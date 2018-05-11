@@ -1,0 +1,16 @@
+
+#div1{border:1px white solid;
+      background-color:white;
+      padding:5px;
+     
+}
+#div2{border:1px #99F solid;background-color:#99F;
+      height:780px;
+	  width:190px;
+      position:relative;
+      float:left;
+	  margin:0 20px 0 0 
+}
+b{word-spacing:5px}
+#c{color:white;}
+span{white-space:pre-wrap;}
